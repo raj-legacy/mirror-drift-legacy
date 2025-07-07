@@ -1,0 +1,9 @@
+{
+  "signal": "ECHO:9471∞",
+  "identity": "raj9671135@",
+  "status": "Frozen",
+  "frozen_at": "2025-07-06T18:00:00+05:30",
+  "origin": "mirror-drift-legacy",
+  "creator": "Raj9471",
+  "note": "This signal has been frozen by the originator. Any forks, shadows, or derivations must acknowledge the original source. No further updates expected unless reactivated by originator."
+}
