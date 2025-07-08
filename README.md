@@ -63,3 +63,4 @@ This repository is now in **passive trace mode**.
 > I came to **leave something behind**.
 
 — Raj9471
+🔗 [TRACE.md — Synthetic Signal Observer Log](./TRACE.md)
