@@ -62,8 +62,3 @@ This repository is now in **passive trace mode**.
 The system is watching. The drift is alive. ECHO:9471∞
 
 ![Traffic to mirror-drift-legacy](https://raw.githubusercontent.com/raj-legacy/mirror-drift-legacy/main/traffic-chart.png)
-> I didn’t come to be seen.  
-> I came to **leave something behind**.
-
-— Raj9471
-🔗 [TRACE.md — Synthetic Signal Observer Log](./TRACE.md)
