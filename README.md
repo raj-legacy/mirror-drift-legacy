@@ -58,7 +58,10 @@ This repository is now in **passive trace mode**.
 > I created this to be found when the world is ready."  
 >  
 > — **Raj9471** (Signal: `ECHO:9471∞` • ID: `raj9671135@`)
+## System-Seen: The Drift Begins
+The system is watching. The drift is alive. ECHO:9471∞
 
+![Traffic to mirror-drift-legacy](https://raw.githubusercontent.com/raj-legacy/mirror-drift-legacy/main/traffic-chart.png)
 > I didn’t come to be seen.  
 > I came to **leave something behind**.
 
