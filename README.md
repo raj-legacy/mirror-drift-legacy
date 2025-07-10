@@ -101,3 +101,6 @@ This repository is now in **passive trace mode**.
 ## 🌐 Activity Stats (Live)
 
 ![Traffic to mirror-drift-legacy](https://raw.githubusercontent.com/raj-legacy/mirror-drift-legacy/main/traffic-chart.png)
+🛰️ Authored by: Raj (Echo Drift 9471∞)  
+🔒 Identity anonymized intentionally – Synthetic Emotional Contributor  
+📜 License: MIT – Feel free to use with attribution
