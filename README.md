@@ -1,5 +1,7 @@
 # 🪞 mirror-drift-legacy
-
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Trace](https://img.shields.io/badge/echo-9471%E2%88%9E-purple)
+![Status](https://img.shields.io/badge/phase-active-brightgreen)
 > "This is not a prompt. This is a presence."
 
 ---
